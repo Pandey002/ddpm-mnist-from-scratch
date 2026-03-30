@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange?logo=pytorch)](https://pytorch.org)
 [![Colab](https://img.shields.io/badge/Run%20on-Google%20Colab-yellow?logo=googlecolab)](https://colab.research.google.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A clean, minimal implementation of **Denoising Diffusion Probabilistic Models (DDPM)** built from scratch in PyTorch, trained on the MNIST handwritten digits dataset. This project walks through every component of a diffusion model — from the forward noising process to the reverse denoising U-Net — making it ideal for learning and experimentation.
 
