@@ -32,24 +32,6 @@ This implementation follows the original paper:
 
 ---
 
-## 📁 Project Structure
-
-```
-ddpm-mnist-from-scratch/
-│
-├── Diffusion_Model.ipynb     # Main Colab notebook (full pipeline)
-├── README.md                 # You're reading this!
-│
-├── models/
-│   └── unet.py               # U-Net architecture with time embeddings
-│
-├── utils/
-│   ├── diffusion.py          # Forward process, noise schedule, sampling
-│   └── train.py              # Training loop
-│
-└── outputs/
-    └── samples/              # Generated digit images saved here
-```
 
 ---
 
